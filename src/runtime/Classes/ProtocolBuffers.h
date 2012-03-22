@@ -15,6 +15,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+#ifndef PROTOCOLBUFFERS_H
+#define PROTOCOLBUFFERS_H
+
 #import "Bootstrap.h"
 
 #import "AbstractMessage.h"
@@ -38,3 +41,5 @@
 #import "UnknownFieldSet_Builder.h"
 #import "Utilities.h"
 #import "WireFormat.h"
+
+#endif
