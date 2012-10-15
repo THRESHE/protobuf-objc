@@ -719,6 +719,7 @@
 				PUBLIC_HEADERS_FOLDER_PATH = ../ProtocolBuffers;
 				SDKROOT = iphoneos;
 				SYMROOT = Build/Products;
+				VALID_ARCHS = "armv6 armv7 armv7s";
 			};
 			name = Debug;
 		};
@@ -736,6 +737,7 @@
 				PUBLIC_HEADERS_FOLDER_PATH = ../ProtocolBuffers;
 				SDKROOT = iphoneos;
 				SYMROOT = Build/Products;
+				VALID_ARCHS = "armv6 armv7 armv7s";
 			};
 			name = Release;
 		};
@@ -753,6 +755,7 @@
 				PUBLIC_HEADERS_FOLDER_PATH = ../ProtocolBuffers;
 				SDKROOT = iphoneos;
 				SYMROOT = Build/Products;
+				VALID_ARCHS = "armv6 armv7 armv7s";
 			};
 			name = AppStore;
 		};
@@ -821,6 +824,7 @@
 				PUBLIC_HEADERS_FOLDER_PATH = ../ProtocolBuffers;
 				SDKROOT = iphoneos;
 				SYMROOT = Build/Products;
+				VALID_ARCHS = "armv6 armv7 armv7s";
 			};
 			name = AdHoc;
 		};
